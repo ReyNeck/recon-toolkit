@@ -1,0 +1,8 @@
+# Credenciales y variables de entorno
+.env
+*.key
+*.pem
+
+# Logs y reportes de auditorías
+*.log
+reportes/
